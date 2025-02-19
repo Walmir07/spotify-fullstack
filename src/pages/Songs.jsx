@@ -1,9 +1,10 @@
 import React from 'react'
+import Main from '../components/Main.jsx'
 
 const Songs = () => {
   return (
     <div>
-        <h1>Songs</h1>
+        <Main type="songs" /> 
     </div>
   )
 }
