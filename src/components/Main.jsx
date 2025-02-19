@@ -1,13 +1,15 @@
 import React from 'react'
 import ItemList from './ItemList';
+import { artistArray } from '../assets/database/artists';
+import { songsArray } from '../assets/database/songs';
 
 const Main = () => {
   return (
     <div className="main">
 
-      <ItemList title="Artistas" items={5}></ItemList>
+      <ItemList title="Artistas" items={5} itemsArray={artistArray}/>
 
-      <ItemList title="Músicas" items={10}></ItemList>
+      <ItemList title="Músicas" items={10} itemsArray={songsArray}/>
 
     </div>
   )
