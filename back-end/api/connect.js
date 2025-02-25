@@ -4,7 +4,7 @@ const URI = "mongodb+srv://walmirlima:uTxopQpTxOlSu4uF@cluster0.4lrrl.mongodb.ne
 
 const client = new MongoClient(URI);
 
-export const db = client.db("spotifyDB");
+export const db = client.db("spotifyBD");
 
 //const songCollection = await db.collection("songs").find({}).toArray(); // Testar busca de dados da tabela
 
