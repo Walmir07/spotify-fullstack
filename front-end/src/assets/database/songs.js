@@ -1,4 +1,4 @@
-export const songsArray = [
+/*export const songsArray = [
   {
     image: "https://i.scdn.co/image/ab67616d00001e022774b00531d558bc19e12a24",
     name: "Última Saudade - Ao Vivo",
@@ -1719,4 +1719,8 @@ export const songsArray = [
       "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ima-de-problema.mp3",
     id: 200,
   },
-];
+];*/
+
+import { songsArray } from "../../../api/api";
+
+export { songsArray };
