@@ -30,7 +30,7 @@ Por meio desse projeto, pude aprender ainda mais sobre boas práticas de desenvo
 
 - **HTML5:** Linguagem de marcação base para a criação da interface (Presente no React).
 
-- **CSS#:** Responsável pela estilização da interface.
+- **CSS:** Responsável pela estilização da interface.
 
 - **Vite:** Ferramenta utilizado para criação de projeto em React.js.
 
@@ -105,7 +105,7 @@ node .\back-end\api\server.js
 
 http://localhost:3000
 
-### Pronto, agora você terá acesso ao projeto. 😉
+- **Pronto, agora você terá acesso ao projeto. 😉**
 
 ## 📡 API - Rotas disponíveis
 
