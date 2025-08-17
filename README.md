@@ -50,6 +50,12 @@ Como o sistema ainda não teve o deply realizado,a seguir temos a apresentação
 
 ![Telas do spotify-clone](https://github.com/user-attachments/assets/ab84f388-9e7d-4cfd-9425-1d8dc0316677)
 
+## 📡 API - Rotas disponíveis
+
+- **GET** `/api/artists` → Lista todos os artistas.
+
+- **GET** `/api/songs` → Lista todas as músicas.
+
 ## 🚀 Como executar?
 
 ### Pré-requisitos
@@ -106,12 +112,6 @@ node .\back-end\api\server.js
 http://localhost:3000
 
 - **Pronto, agora você terá acesso ao projeto. 😉**
-
-## 📡 API - Rotas disponíveis
-
-- **GET** `/api/artists` → Lista todos os artistas.
-
-- **GET** `/api/songs` → Lista todas as músicas.
 
 ## 📜 Licença
 
