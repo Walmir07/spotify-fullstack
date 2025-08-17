@@ -106,3 +106,17 @@ node .\back-end\api\server.js
 http://localhost:3000
 
 ### Pronto, agora você terá acesso ao projeto. 😉
+
+## 📡 API - Rotas disponíveis
+
+- **GET** `/api/artists` → Lista todos os artistas.
+
+- **GET** `/api/songs` → Lista todas as músicas.
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👤 Autor
+
+- **Walmir Lima** – [@Walmir07](https://github.com/Walmir07)
